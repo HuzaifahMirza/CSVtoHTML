@@ -1,0 +1,3 @@
+Error: File doctorlist.csv. Missing attribute. File not converted to html.
+Warning: File covidstatistics.csv line 1 is not converted to html: missing data:ICU
+Warning: File covidstatistics.csv line 1 is not converted to html: missing data:ICU
